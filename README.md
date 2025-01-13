@@ -1,3 +1,3 @@
-# PORJECT1
-Print(“Hola mundo, mi nombre es quintero y me encanta vaporeon”)
-Input(“presiona enter si te gusta vaporeon”)
+# PROJECT
+Print(“Hola mundo, mi nombre es Santiago y me encanta pokemon”)
+Input(“presiona enter si te gusta pokemon”)
